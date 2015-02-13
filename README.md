@@ -22,6 +22,7 @@ $ cd pokemon
 Download the latest Android Studio if you haven't. Open file as New Project.
 
 **Step 3: Party**
+
 Seriously, that's it.
 
 ### Questions?
